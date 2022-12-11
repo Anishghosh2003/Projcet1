@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>Projcet1</title>
+</head>
+<body background="bacground.jpg" align="center">
+<h3>
+<font face="arial">
+Code with Anish
+</font>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="#" style="color:white">Home</a>
+&nbsp;&nbsp;&nbsp;
+<a href="#" style="color:white">Content</a>
+&nbsp;&nbsp;&nbsp;
+<a href="#" style="color:white">Blog</a>
+&nbsp;&nbsp;&nbsp;
+<a href="#" style="color:white">About</a>
+</h3>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h1>
+<font size="6" color="white">
+Smpile HTML project
+</font>
+</h1>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<marquee bgcolor="yellow">Thank You</marquee>
+</body>
+</html>
