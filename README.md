@@ -1,2 +1,3 @@
-# Projcet1
+# Simple html projcet
+
 Using only HTML
